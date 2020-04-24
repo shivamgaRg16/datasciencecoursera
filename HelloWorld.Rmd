@@ -1,9 +1,3 @@
----
-title: "datasciencecoursera"
-author: "shivamgaRg16"
-date: "4/25/2020"
-output: word_document
----
 
 ## This is a markdown file
 
